@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blatchard
-- 👀 I’m interested in Qubes! Network-administration, wireless technology, cyber-security, white-hat, bash, linux, foss.
-- 🌱 I’m currently learning bash mostly, a little python and security and always tinkering with something (currently my newly modded bios)
-- 💞️ I’m looking to collaborate on - i am light years from the knowledge of many githubbers.  Maybe one day....
+- 👀 I’m interested in Qubes! Network-administration, wireless technology, cyber-security, white-hat, bash, linux, bugs, vulnerablities, foss.
+- 🌱 I’m currently learning bash mostly, a little python and security and always tinkering with something.
+- 💞️ I’m looking to collaborate on - being of any use with Qubes, scripts, anything useful/helpful.
 - 📫 How to reach me - only through github.
 
 <!---
